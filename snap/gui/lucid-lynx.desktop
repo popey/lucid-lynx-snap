@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Lucid Lynx
+Exec=lucid-lynx %U
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/lucid-lynx.png
+StartupWMClass=lucid-lynx
+Comment=Download and install Ubuntu 10.04.4 in a VM
