@@ -1,6 +1,7 @@
 name: lucid-lynx
 base: core18
-assumes: 2.43
+assumes: 
+  - snapd2.43
 version: '10.04.4'
 summary: Download and install Ubuntu 10.04.4 in a VM
 description: |
